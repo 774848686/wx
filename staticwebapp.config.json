@@ -1,5 +1,9 @@
 {
   "platform": {
-    "apiRuntime": "none"  // 禁用 API 和构建
+    "apiRuntime": "none"
+  },
+  "build": {
+    "appBuildCommand": "", 
+    "skipBuild": true
   }
 }
