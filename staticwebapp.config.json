@@ -1,0 +1,5 @@
+{
+  "platform": {
+    "apiRuntime": "none"  // 禁用 API 和构建
+  }
+}
