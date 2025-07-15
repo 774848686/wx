@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "echo 'No build needed' && exit 0"
+    "build": "./build.sh"
   }
 }
