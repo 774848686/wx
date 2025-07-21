@@ -1,0 +1,9 @@
+{
+  "platform": {
+    "apiRuntime": "none"
+  },
+  "build": {
+    "appBuildCommand": "",
+    "skipBuild": true
+  }
+}
